@@ -53,7 +53,7 @@ A 3-fold cross-validation was performed using a dataset of 29 biodiesel yield me
 
 ## Results
 
-The results of the machine learning models, including performance metrics and visualizations, can be found in the published paper in Bioresource Technology Reports.
+The results of the machine learning models, including performance metrics and visualizations, can be found in the published paper in Bioresource Technology Reports. https://www.sciencedirect.com/science/article/pii/S2589014X2400046X
 
 ## Acknowledgments
 
